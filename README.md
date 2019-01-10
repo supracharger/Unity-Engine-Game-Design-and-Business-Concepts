@@ -1,6 +1,6 @@
 ### Unity Engine Game Design & Business Concepts
 
-![Alt text](\images\Unity Logo -small.jpg?raw=true "Unity Engine")
+![Unity Engine](images\Unity Logo -small.jpg)
 
-## CLASSES:
-* 1GDD: Game Design & Development
+# CLASSES:
+* **1GDD:** Game Design & Development
