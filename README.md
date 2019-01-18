@@ -9,3 +9,4 @@
 * **1GDD:** Game Design & Development
 * **2PGD:** Principles of Game Design
 * **3BGE:** Business of Games & Entrepreneurship
+* **4GDMP:** Game Development for Modern Platforms
