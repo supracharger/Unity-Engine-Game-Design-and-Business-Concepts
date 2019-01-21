@@ -5,7 +5,7 @@
 
 ### Description
 Here are my Projects for “Business of Games & Entrepreneurship:” 
-* Personal Pitch: A 30 Second Description of Myself
-* Competitive Analysis: Analysis of all possible competition of my Game
-* SWOT: Strengths, Weaknesses, Opportunities, & Threats
+* Personal Pitch: A 30 Second Description of Myself.
+* Competitive Analysis: Analysis of all possible competition of my Game.
+* SWOT: Strengths, Weaknesses, Opportunities, & Threats.
 
