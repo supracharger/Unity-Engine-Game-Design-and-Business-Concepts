@@ -3,7 +3,7 @@
 ![Unity Engine](images/UnityLogo-small.jpg)
 
 ## Quick Personal Pitch (YouTube as of 2018)
-[![Personal Pitch](https://img.youtube.com/vi/nBYAA9d1vYY/0.jpg)](https://www.youtube.com/watch?v=nBYAA9d1vYY)
+[![Personal Pitch](images/Personal_Pitch_Main.jpg)](https://www.youtube.com/watch?v=nBYAA9d1vYY)
 
 ## Final Project: Helicopter Resurgence
 [![Helicopter Resurgence Game](images/Helicopter_Resurgence_Game.png)](https://www.kongregate.com/games/supracharger1/helicopter-resurgence)
