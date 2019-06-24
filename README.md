@@ -6,6 +6,7 @@
 [![Personal Pitch](images/Personal_Pitch_Main.jpg)](https://www.youtube.com/watch?v=nBYAA9d1vYY)
 
 ## Final Project: Helicopter Resurgence
+**Click Picture to be linked to the game.**
 [![Helicopter Resurgence Game](images/Helicopter_Resurgence_Game.png)](https://www.kongregate.com/games/supracharger1/helicopter-resurgence)
 
 ### CLASSES:
