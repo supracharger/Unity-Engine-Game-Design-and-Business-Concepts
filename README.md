@@ -5,7 +5,7 @@
 ## Quick Personal Pitch (YouTube as of 2018)
 [![Personal Pitch](images/Personal_Pitch_Main.jpg)](https://www.youtube.com/watch?v=nBYAA9d1vYY)
 
-## Final Project: Helicopter Resurgence
+## Final Project: Helicopter Resurgence -Game Solely Designed by Myself
 **Click Picture to be linked to the game.**
 [![Helicopter Resurgence Game](images/Helicopter_Resurgence_Game.png)](https://www.kongregate.com/games/supracharger1/helicopter-resurgence)
 
